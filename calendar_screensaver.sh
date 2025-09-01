@@ -2,7 +2,7 @@
 
 # ------------ CONFIGURATION ------------
 IDLE_THRESHOLD_MS=300000     # 5 minutes = 300000 ms
-CALENDAR_WORKSPACE=3         # Workspace 3 (0-indexed)
+CALENDAR_WORKSPACE=4         # Workspace 4 (0-indexed)
 CHECK_INTERVAL=5             # Check every 5 seconds
 THUNDERBIRD_CMD="thunderbird"
 
